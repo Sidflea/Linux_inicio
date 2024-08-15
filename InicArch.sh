@@ -43,8 +43,6 @@ yay --version
 
 #---Brave
 yay -S brave-bin
-yay -S brave-beta-bin
-yay -S brave-nightly-bin
 
 #---Flatpak && Flathub
 sudo pacman -S flatpak
